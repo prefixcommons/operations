@@ -32,26 +32,29 @@ The following list of categorized functions came from the original document (sum
 Categorizing Prefix Functionality
 
 *** Understanding Prefixes
-well documented - prefix documentation
-prefix clashes - one prefix, multiple resources
-prefix ambiguity - one prefix, maybe multiple resources
-redundant primary prefixes per resource - more than one prefix
 prefix available or taken
-who/when registered
-In which registry/ies
-What target does prefix entry point to
-For given registry's entry for this prefix:
+most credible target for prefix 
+in which registry/ies
+Documentation: For given registry's entry for this prefix:
 - Primary prefix
 - Alternate prefix
-- Local identifier
 - Entity identifier (e.g., IRI)
-- Identifier namespace path if different
+- Identifier namespace path if different (e.g., includes # or / separator)
   - identifier resolution - computable (y/n)
   - identifier resolution - human viewable (y/n)
 - different namespace for human readable pages
 - homepage
 - description
 - title
+- more detailed metadata about the entry
+  - Local identifier (e.g., DB record key)
+  - who registered
+  - when registered
+
+*** Understanding Prefixes: Errors
+prefix clashes - one prefix, multiple resources
+prefix ambiguity - one prefix, maybe multiple resources
+redundant primary prefixes per resource - more than one prefix
 
 *** Registering Prefixes
 where to register
