@@ -1,0 +1,109 @@
+
+Summary of Scenarios 
+(derived from material in https://docs.google.com/document/d/1DxU2IN56fUoASxaiEOsn2NDtjRGWw5rK_BxRAKcyvwU/edit)
+
+*** Database providers (incl. material resource providers)
+1) The preferred prefix for our database is FOOBAR; is this prefix available or taken?
+1a) If it appears to be registered: 
+1b) If the prefix FOOBAR hasn’t been “taken” (registered anywhere):
+
+*** Researchers
+2) What is known about Optic disk coloboma (HP:0000588)? 
+3) HP:0000588. What is the authoritative original source of this information and what is the URL whereby can I access it?
+4) what might this refer to? 
+5) What is known about this entity?
+6) how can I determine the impact of this resource? 
+
+*** Data aggregators (including publishers)
+7) I want to reference identifiers for the Human Phenotype Ontology in our database. Should I use the prefix HP or HPO? 
+8) In our application we aggregate / integrate data from dozens of sources. I would like to document: 
+9) I would like to know which other data sources or tools might have data relevant to sources we XREF; 
+10) Our database needs to reference the Gene Expression Omnibus and the GeoNames Ontology, but both of these lay claim to the “GEO” prefix. 
+11) What are all of the known preferred prefix collisions in the prefixome.
+12) I see records that a given prefix is assigned to two databases by slightly different names and URLs. Are these in fact the same database? 
+13) REST API to convert URLS them back into the provider-issued CURIE prefix 
+14) I want to reference HP identifiers, what are all of the different locations of this exact record? 
+
+*** Funders
+(Not filled in for now; but included in the function list below)
+
+The following list of categorized functions came from the original document (summarized above), and materials developed during the hackathon.
+
+Categorizing Prefix Functionality
+
+*** Understanding Prefixes
+prefix available or taken
+most credible target for prefix 
+in which registry/ies
+Documentation: For given registry's entry for this prefix:
+- Primary prefix
+- Alternate prefix
+- Entity identifier (e.g., IRI)
+- Identifier namespace path if different (e.g., includes # or / separator)
+  - identifier resolution - computable (y/n)
+  - identifier resolution - human viewable (y/n)
+- different namespace for human readable pages
+- homepage
+- description
+- title
+- more detailed metadata about the entry
+  - Local identifier (e.g., DB record key)
+  - who registered
+  - when registered
+
+*** Understanding Prefixes: Errors
+prefix clashes - one prefix, multiple resources
+prefix ambiguity - one prefix, maybe multiple resources
+redundant primary prefixes per resource - more than one prefix
+
+*** Registering Prefixes
+where to register
+how to streamline registration
+how to cite
+how to register data source
+how to specify format of data source
+how to specify metadata re data source
+how to correct metadata re data source
+where to manage metadata re data source
+minimum metadata required (new)
+
+*** Prefix Application/Citation
+prefix user count
+prefix user list
+prefix subscriber list
+prefix user general contact method
+prefix user 'request link' contact method
+prefix user registry synchronization
+prefix impact profile
+prefix impact profile over time
+prefix impact profile relative to average
+prefix record locations
+
+*** Prefixed Entity Lookup
+entity information
+entity resolvable URL
+how to resolve entity of form X
+how to get computable representation of entity(ies)
+entity authoritative source
+entity annotations locations
+entity tools
+entity purchase information
+entity users
+entity meta-information subscription
+entity impact
+
+*** Using Prefixes
+which prefix to use (differentiation, disambiguation)
+alternate prefix to use (conflict avoidance)
+which prefixes we use
+which external sources we use
+
+*** Prefix Environment
+known preferred prefix collisions
+known prefix collisions (including alternates)
+prefix issue resolution (clashes, ambiguity, redundancy, metadata errors)
+
+*** Prefix Discovery
+from URL
+from context (roughly, faceted search)
+quantified by research space (gaps and overlaps)
