@@ -6,7 +6,7 @@ It would be good to collect evidence of identifier pain. The purpose of this lis
 https://github.com/EBISPOT/OLS/issues/50#issuecomment-188312663
 * underscore delimited forms
 * case sensitivity
-* 
+
 https://docs.google.com/spreadsheets/d/1IoyLuuJvmGhma-cGlmjIQKs65qq-YEXWiZNc1lZen_c/edit#gid=0
 * institutional code collisions
 
