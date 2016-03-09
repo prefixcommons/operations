@@ -12,4 +12,8 @@ https://docs.google.com/spreadsheets/d/1IoyLuuJvmGhma-cGlmjIQKs65qq-YEXWiZNc1lZe
 
 https://docs.google.com/spreadsheets/d/1OCJuB5obyKsOY-_Fc9-QTj2m1KTiGfEien5NxQyGFAQ/edit#gid=19403651
 * number of shortform and http URI permutations found in the wild for a single identifier in NCBI gene
+ 
+https://en.wikipedia.org/wiki/URL_normalization
+* 17 different ways in which URLs could be determined to be equivalent; some of these are lossy
+
 
