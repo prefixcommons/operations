@@ -16,4 +16,7 @@ https://docs.google.com/spreadsheets/d/1OCJuB5obyKsOY-_Fc9-QTj2m1KTiGfEien5NxQyG
 https://en.wikipedia.org/wiki/URL_normalization
 * 17 different ways in which URLs could be determined to be equivalent; some of these are lossy
 
+https://www.biostars.org/p/164441/
+* Identifier mapping issues
+
 
