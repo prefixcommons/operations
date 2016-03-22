@@ -19,4 +19,7 @@ https://en.wikipedia.org/wiki/URL_normalization
 https://www.biostars.org/p/164441/
 * Identifier mapping issues
 
+https://github.com/monarch-initiative/hpo-annotation-data/issues/101
+* Prefix heterogeneity OMIM vs MIM. Have to build special processors to collapse them.
+
 
