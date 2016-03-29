@@ -22,4 +22,8 @@ https://www.biostars.org/p/164441/
 https://github.com/monarch-initiative/hpo-annotation-data/issues/101
 * Prefix heterogeneity OMIM vs MIM. Have to build special processors to collapse them.
 
+https://github.com/monarch-initiative/dipper/issues/158
+* TAIR prefix variation difficult to resolve
+
+
 
