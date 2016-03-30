@@ -25,5 +25,8 @@ https://github.com/monarch-initiative/hpo-annotation-data/issues/101
 https://github.com/monarch-initiative/dipper/issues/158
 * TAIR prefix variation difficult to resolve
 
+https://twitter.com/soilandreyes/status/715179029947686914
+* No obvious documentation for permalinks in EU grants, nor any correlation between destination URL and project ID
+
 
 
