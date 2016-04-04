@@ -28,5 +28,8 @@ https://github.com/monarch-initiative/dipper/issues/158
 https://twitter.com/soilandreyes/status/715179029947686914
 * No obvious documentation for permalinks in EU grants, nor any correlation between destination URL and project ID
 
+http://journals.iucr.org/f/issues/2016/04/00/hv9323/index.html
+* Naming problems that result from embedded meaning in identifiers and evolving scientific knowledge.
+
 
 
