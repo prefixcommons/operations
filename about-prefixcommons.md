@@ -5,4 +5,4 @@ It integrates available information about various web identifier schemes in the 
 Other great platforms exist for resolution and registration of prefixes. We are aiming to harmonize, not compete with them.
 a) reduce likelihood of single prefix being registered to two different datasources. b) reduce likelihood of a single datasources being registered under two different prefixes.
 
-A very light weight demonstrator of the integrated prefix metadata corpus is here: https://prefixcommons.shinyapps.io/shiny More information and code to follow.
+A very light weight demonstrator of the integrated prefix metadata corpus is here: http://prefixcommons.org More information and code to follow.
