@@ -34,6 +34,7 @@ http://journals.iucr.org/f/issues/2016/04/00/hv9323/index.html
 https://github.com/prefixcommons/operations/issues/19
 * co-occuring identifier complexities in HGNC (multiple entity types, multiple identifier types, prefixed/unprefixed versions, type-specific URLs without type-specific determinism in local IDs)
 
-
+http://www.webpronews.com/ebay-improves-search-product-identifiers-2016-04/
+* need for location-independent ids
 
 
