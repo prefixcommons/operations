@@ -8,7 +8,7 @@ https://github.com/EBISPOT/OLS/issues/50#issuecomment-188312663
 * case sensitivity
 
 https://docs.google.com/spreadsheets/d/1IoyLuuJvmGhma-cGlmjIQKs65qq-YEXWiZNc1lZen_c/edit#gid=0
-* institutional code collisions
+* institutional code collisions amongst darwin core triples
 
 https://docs.google.com/spreadsheets/d/1OCJuB5obyKsOY-_Fc9-QTj2m1KTiGfEien5NxQyGFAQ/edit#gid=19403651
 * number of shortform and http URI permutations found in the wild for a single identifier in NCBI gene
