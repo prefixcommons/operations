@@ -31,5 +31,9 @@ https://twitter.com/soilandreyes/status/715179029947686914
 http://journals.iucr.org/f/issues/2016/04/00/hv9323/index.html
 * Naming problems that result from embedded meaning in identifiers and evolving scientific knowledge.
 
+https://github.com/prefixcommons/operations/issues/19
+* co-occuring identifier complexities in HGNC (multiple entity types, multiple identifier types, prefixed/unprefixed versions, type-specific URLs without type-specific determinism in local IDs)
+
+
 
 
