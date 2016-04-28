@@ -14,7 +14,7 @@ PrefixCommons | [NCBI](https://docs.google.com/spreadsheets/d/1OCJuB5obyKsOY-_Fc
 [Monarch Initiative](https://github.com/monarch-initiative/dipper/issues/158) | TAIR| TAIR prefix variation difficult to resolve | type-specificity
 Stian |[EU grants](https://twitter.com/soilandreyes/status/715179029947686914) |No obvious documentation for permalinks in EU grants, nor any correlation between destination URL and project ID | documentation
 [H pylori paper](http://journals.iucr.org/f/issues/2016/04/00/hv9323/index.html)|HP Protein identifiers | Naming problems that result from embedded meaning in identifiers and evolving scientific knowledge. | Embedded meaning
-PrefixCommons | [HGNC](https://github.com/prefixcommons/operations/issues/19) | co-occuring identifier complexities in HGNC (multiple entity types, multiple identifier types, prefixed/unprefixed versions, type-specific URLs without type-specific determinism in local IDs)
+PrefixCommons | [HGNC](https://github.com/prefixcommons/operations/issues/19) | co-occuring identifier complexities in HGNC (multiple entity types, multiple identifier types, prefixed/unprefixed versions, type-specific URLs without type-specific determinism in local IDs)|type-specificity
 [WebProNews](http://www.webpronews.com/ebay-improves-search-product-identifiers-2016-04/)|EBAY|need for location-independent ids|data integration
 PrefixCommons|[ZENODO](https://zenodo.org/record/31765#.VyJbvaODGko) | No rollup to impact for all DOI versions
 
