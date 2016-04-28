@@ -36,5 +36,8 @@ https://github.com/prefixcommons/operations/issues/19
 
 http://www.webpronews.com/ebay-improves-search-product-identifiers-2016-04/
 * need for location-independent ids
+ 
+https://zenodo.org/record/31765#.VyJbvaODGko
+* No rollup to impact for all DOI versions
 
 
