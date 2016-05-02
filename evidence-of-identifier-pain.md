@@ -1,9 +1,9 @@
-It would be good to collect evidence of identifier pain. The purpose of this list could be used to 
+It would be good to collect evidence of identifier pain. This list could be used to 
 * Convince funders of the problem
 * Provide a set of references for a paper or specification
 * See what can be done to improve informatics/tooling around identifiers
  
-Anyone is welcome to contribute.
+Anyone is warmly welcomed to contribute.
 
 Reported by | Reported about | Problems referenced | Problem category
 ------|-----|----|----
