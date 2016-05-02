@@ -3,7 +3,7 @@ It would be good to collect evidence of identifier pain. This list could be used
 * Provide a set of references for a paper or specification
 * See what can be done to improve informatics/tooling around identifiers
  
-Anyone is warmly welcomed to contribute.
+We warmly welcome anyone to contribute.
 
 Reported by | Reported about | Problems referenced | Problem category
 ------|-----|----|----
@@ -18,6 +18,6 @@ Stian |[EU grants](https://twitter.com/soilandreyes/status/715179029947686914) |
 [H pylori paper](http://journals.iucr.org/f/issues/2016/04/00/hv9323/index.html)|HP Protein identifiers | Naming problems that result from embedded meaning in identifiers and evolving scientific knowledge. | Embedded meaning
 PrefixCommons | [HGNC](https://github.com/prefixcommons/operations/issues/19) | co-occuring identifier complexities in HGNC (multiple entity types, multiple identifier types, prefixed/unprefixed versions, type-specific URLs without type-specific determinism in local IDs)|type-specificity
 [WebProNews](http://www.webpronews.com/ebay-improves-search-product-identifiers-2016-04/)|EBAY|need for location-independent ids|data integration
-PrefixCommons|[ZENODO](https://zenodo.org/record/31765#.VyJbvaODGko) | No rollup to impact for all DOI versions
+PrefixCommons|[ZENODO](https://zenodo.org/record/31765#.VyJbvaODGko) | No rollup to impact for all DOI versions | DOI versions
 
 
