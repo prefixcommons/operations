@@ -20,6 +20,6 @@ PrefixCommons | [HGNC](https://github.com/prefixcommons/operations/issues/19) | 
 [WebProNews](http://www.webpronews.com/ebay-improves-search-product-identifiers-2016-04/)|EBAY|need for location-independent ids|data integration
 PrefixCommons|[ZENODO](https://zenodo.org/record/31765#.VyJbvaODGko) | No rollup to impact for all DOI versions | DOI versions
 Monarch Initiative | [Monarch's ingest of FlyBase](https://github.com/monarch-initiative/dipper/pull/312) | Faulty ingest process resulted in fly and human genes being considered equivalents instead of orthologs. | Data integration
-Monarch Initiative | [EBI-OLS](https://github.com/EBISPOT/OLS/issues/93) | Tricky to support searches of identifiers because of standard search engine query parsing behavior.| Data applications
+Monarch Initiative | [EBI-OLS](https://github.com/EBISPOT/OLS/issues/93) | Tricky to support searches of identifiers because of standard query-parsing behavior of solr.| Data applications
 
 
