@@ -1,4 +1,5 @@
-It would be good to collect evidence of identifier pain. This list could be used to 
+This is a list of real-world identifier issues encountered; it aims to be representative rather than exhaustive. 
+This list could be used to 
 * Convince funders of the problem
 * Provide a set of references for a paper or specification
 * See what can be done to improve informatics/tooling around identifiers
