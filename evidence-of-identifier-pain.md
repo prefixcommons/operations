@@ -22,5 +22,6 @@ PrefixCommons | [HGNC](https://github.com/prefixcommons/operations/issues/19) | 
 PrefixCommons|[ZENODO](https://zenodo.org/record/31765#.VyJbvaODGko) | No rollup to impact for all DOI versions | DOI versions
 Monarch Initiative | [Monarch's ingest of FlyBase](https://github.com/monarch-initiative/dipper/pull/312) | Faulty ingest process resulted in fly and human genes being considered equivalents instead of orthologs. | Data integration
 Monarch Initiative | [EBI-OLS](https://github.com/EBISPOT/OLS/issues/93) | Tricky to support searches of identifiers because of standard query-parsing behavior of solr.| Data applications
+[Ziemann et al](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7) | Several journals | Gene name corruption in supplementary data affects 20% of papers | Data quality
 
 
