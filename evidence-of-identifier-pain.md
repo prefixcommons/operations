@@ -23,5 +23,5 @@ PrefixCommons|[ZENODO](https://zenodo.org/record/31765#.VyJbvaODGko) | No rollup
 Monarch Initiative | [Monarch's ingest of FlyBase](https://github.com/monarch-initiative/dipper/pull/312) | Faulty ingest process resulted in fly and human genes being considered equivalents instead of orthologs. | Data integration
 Monarch Initiative | [EBI-OLS](https://github.com/EBISPOT/OLS/issues/93) | Tricky to support searches of identifiers because of standard query-parsing behavior of solr.| Data applications
 [Ziemann et al](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7) | Several journals | Gene name corruption in supplementary data affects 20% of papers | Data quality
-
+[D. Natale](http://orcid.org/0000-0001-5809-9523) | NCBI's Gene database | Large number of identifiers went stale for strains declared "out of scope" or other reasons. In some cases no alternative is offered. Example 1 https://www.ncbi.nlm.nih.gov/gene/?term=5203950. Example 2 https://www.ncbi.nlm.nih.gov/gene/?term=1165308 | data stability
 
