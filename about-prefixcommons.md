@@ -11,8 +11,9 @@ A very light weight demonstrator of the integrated prefix metadata corpus is her
 Eg. 
 
 to query 'go':
-https://beta.monarchinitiative.org/ping/prefix/go
-to query 'foo':
-https://beta.monarchinitiative.org/ping/prefix/foo
+- https://beta.monarchinitiative.org/ping/prefix/go
 
-Note that this service does not expose two different prefixes for the same resource.
+to query 'foo':
+- https://beta.monarchinitiative.org/ping/prefix/foo
+
+Note that this ping service does not currently expose two different prefixes for the same resource.
