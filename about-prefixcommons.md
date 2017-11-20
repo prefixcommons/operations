@@ -4,4 +4,4 @@ Several excellent platforms exist for registration and resolution of prefixes. T
 
 A demonstrator of the integrated prefix metadata can be found at [http://prefixcommons.org](http://prefixcommons.org). A prefix ping service is planned for fall 2017 that will fetch data in realtime about whether a prefix has previously been registered, in what registry, and where to find more details about the record. Prefix registries can use this service to explore whether a prefix has previously been used before assigning new ones.
 
-PrefixCommons is a collaboration between the Monarch Initiative and the Institute of Data Science @ Maastricht University, and has received funding from NIH grants U24AI117966-03S1, 1OT3TR002027-01, and 1OT3HL142479-01
+PrefixCommons is a collaboration between the [Monarch Initiative](http://monarchinitiative.org) and the [Institute of Data Science @ Maastricht University](http://maastrichtuniversity.nl/ids), and has received funding from NIH grants U24AI117966-03S1, 1OT3TR002027-01, and 1OT3HL142479-01
