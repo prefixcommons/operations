@@ -29,3 +29,4 @@ Monarch Initiative | [Massive DB](http://massive.ucsd.edu) | hashed links like h
 Gene Ontology | Duplicated prefixes in EBI RDF platform | Prefixes for GO Ids are double encoded and 404 (https://github.com/EBISPOT/RDF-platform/issues/3) | persistence, integration
 Monarch Initiative | OMIM links to [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=EHLERS-DANLOS%20SYNDROME,%20CLASSIC%20TYPE) | Lack of identified 'hooks' into clinicaltrials.gov means that searching for an entity leads to false positives | integration
 Monarch Initiative | Link Rot | [Ruins Halloween](https://twitter.com/moietymouse/status/925150866465751040) | Persistence
+Gene Ontology | [Gene Ontology xrefs](https://github.com/geneontology/go-annotation/issues/1772) | Russian-doll nesting of id minting authorities | integration
