@@ -30,3 +30,4 @@ Gene Ontology | Duplicated prefixes in EBI RDF platform | Prefixes for GO Ids ar
 Monarch Initiative | OMIM links to [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=EHLERS-DANLOS%20SYNDROME,%20CLASSIC%20TYPE) | Lack of identified 'hooks' into clinicaltrials.gov means that searching for an entity leads to false positives | integration
 Monarch Initiative | Link Rot | [Ruins Halloween](https://twitter.com/moietymouse/status/925150866465751040) | Persistence
 Gene Ontology | [Gene Ontology xrefs](https://github.com/geneontology/go-annotation/issues/1772) | Russian-doll nesting of id minting authorities | integration
+Monarch Initiative | Prefix collision | FB is used as a prefix for FaceBase and for FlyBase | Integration
